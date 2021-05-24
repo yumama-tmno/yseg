@@ -167,4 +167,7 @@ Footer
   .container{
     width:100%;
   }
+  #Contact textarea{
+    width:100%;
+  }
 }
